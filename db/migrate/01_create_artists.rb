@@ -1,4 +1,5 @@
-require 'active_record'
+require_relative '../../config/environment.rb'
+
 class CreateArtists < AcitveRecord::Migration[5.2]
   def up
   end
