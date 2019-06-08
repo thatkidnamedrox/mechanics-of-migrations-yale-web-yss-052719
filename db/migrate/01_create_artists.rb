@@ -1,4 +1,4 @@
-class CreateArtists < AcitveRecord::Migration[5.2.2]
+class CreateArtists < AcitveRecord::Migration[5]
   def up
   end
 
